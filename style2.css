@@ -8,6 +8,9 @@
     font-weight: 400;
 }
 
+#escudo-manchester
+    wid: 300px;
+
 .principal{
     background-color: black;
     border: 10px;
