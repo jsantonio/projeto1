@@ -7,3 +7,12 @@
     color: black;
     font-weight: 400;
 }
+
+.principal{
+    background-color: black;
+    border: 10px;
+    border-color: red;
+    border-style: double;
+    margin: 30px;
+    color: yellow;
+}
