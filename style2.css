@@ -8,8 +8,15 @@
     font-weight: 400;
 }
 
-#escudo-manchester
-    wid: 300px;
+#escudo-manchester{
+    width: 300px;
+}
+
+#link{
+    font-size: 20px;
+    color: crimson;
+    text-decoration: none;
+} 
 
 .principal{
     background-color: black;
