@@ -17,6 +17,11 @@
     color: crimson;
     text-decoration: none;
 } 
+#link:hover{
+    font-size: 25px;
+    color:blue;
+    text-decoration: underline;
+}
 
 .principal{
     background-color: black;
